@@ -83,6 +83,7 @@ Set up the ZenML stack with the following commands
 
 The project can only be executed with a ZenML stack that has an MLflow experiment tracker and model deployer as components. Configure the new stack with the following commands:
 
+
 **Project Structure**
 
 **Setup Instructions**
@@ -91,15 +92,18 @@ The project can only be executed with a ZenML stack that has an MLflow experimen
 
 2. Create a Virtual Environment using:
    
-    **python -m venv venv (Windows)**
-   
-    **python3 -m venv venv (Mac/Linux)**
-   
    Activate the environment:
    
      Windows:
+
+         **python -m venv venv**
+   
          **venv\Scripts\activate**
+   
       Mac/Linux:
+   
+         **python3 -m venv venv**
+   
          **source venv/bin/activate**
    
 3. Install Dependencies
@@ -107,6 +111,7 @@ The project can only be executed with a ZenML stack that has an MLflow experimen
       Run the following command to install all dependencies:
 
         **pip install -r requirements.txt**
+   
 
 **Execution Steps**
 

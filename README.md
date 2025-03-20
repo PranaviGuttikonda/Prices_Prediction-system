@@ -6,16 +6,24 @@ The Prices Predictor System is a machine learning-based application designed to 
 
 **Features:** 
 ● Data ingestion and preprocessing
+
 ● Exploratory data analysis (EDA)
+
 ● Feature engineering and selection
+
 ● Model training and evaluation
+
 ● Deployment of the trained model for inference
 
 **Required Tools & Platforms:**
 ● Operating System: Windows 10 (Preferred)
+
 ● Python Version: 3.10.11 (Latesr versions. such as Python 3.13, are not compatible due to the issues with installing dependencies from requirements.txt)
+
   ●Download from: https://www.python.org/downloads/
+  
 ● IDE: Visual Studio Code (Recommended)
+
   ● Download from: https://code.visualstudio.com/download
 
 **Required Python Modules**

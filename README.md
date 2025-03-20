@@ -79,7 +79,7 @@ If you are running the **run_deployment.py** script, you will need to install so
 
 **5. Configure the ZenML Stack**
 
-Set up the ZenML stack
+Set up the ZenML stack- Refer to the Installing and Setting Project
 
 **Project Structure**
 

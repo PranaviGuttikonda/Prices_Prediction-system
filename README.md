@@ -22,7 +22,7 @@ The Prices Predictor System is a machine learning-based application designed to 
 
 ● Python Version: 3.10.11 (Latesr versions. such as Python 3.13, are not compatible due to the issues with installing dependencies from requirements.txt)
 
-  ●Download from: https://www.python.org/downloads/
+  ● Download from: https://www.python.org/downloads/
   
 ● IDE: Visual Studio Code (Recommended)
 
@@ -55,6 +55,7 @@ The key dependencies include:
 ● ZenML: For MLOps pipelines and deployments 
 
 Refer to requirements.txt for the complete list.
+
 
 **ZenML Installation & Setup**
 

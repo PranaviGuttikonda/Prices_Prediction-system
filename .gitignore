@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore MacOS metadata
+__MACOSX/
+
+# Ignore MLFlow artifacts
+mlruns/
+mlflow.db
+
+# Ignore extracted data
+extracted_data/
+
+# Ignore IDE and OS files
+.vscode/
+.DS_Store

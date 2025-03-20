@@ -79,10 +79,7 @@ If you are running the **run_deployment.py** script, you will need to install so
 
 **5. Configure the ZenML Stack**
 
-Set up the ZenML stack with the following commands
-
-The project can only be executed with a ZenML stack that has an MLflow experiment tracker and model deployer as components. Configure the new stack with the following commands:
-
+Set up the ZenML stack
 
 **Project Structure**
 

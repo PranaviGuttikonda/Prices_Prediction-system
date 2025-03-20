@@ -96,21 +96,21 @@ The project can only be executed with a ZenML stack that has an MLflow experimen
    
      Windows:
 
-         **python -m venv venv**
+         python -m venv venv
    
-         **venv\Scripts\activate**
+         venv\Scripts\activate
    
       Mac/Linux:
    
-         **python3 -m venv venv**
+         python3 -m venv venv
    
-         **source venv/bin/activate**
+         source venv/bin/activate
    
 3. Install Dependencies
    
       Run the following command to install all dependencies:
 
-        **pip install -r requirements.txt**
+        pip install -r requirements.txt
    
 
 **Execution Steps**
@@ -118,7 +118,7 @@ The project can only be executed with a ZenML stack that has an MLflow experimen
 **Run the Pipeline**
 
 To execute the main pipeline, run:
-
+  
   **python run_pipeline.py**
   
 **Run Deployment**
